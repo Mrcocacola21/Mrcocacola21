@@ -17,8 +17,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&colorA=F7971E&colorB=FFD200)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&colorA=1A2980&colorB=26D0CE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&colorA=F7971E&colorB=FFD200)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&colorA=1E3C72&colorB=2A5298)
+![NoSQL](https://img.shields.io/badge/NoSQL-CC0000?style=for-the-badge&logo=mongodb&logoColor=white&colorA=200122&colorB=6f0000)
 
 </div>
+
 
 ---
 
