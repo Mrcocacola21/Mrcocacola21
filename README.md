@@ -18,4 +18,6 @@
 
 ---
 
-![My Gif](./GIF.gif)
+<div align="center">
+  <img src="./GIF.gif" alt="My Gif" />
+</div>
