@@ -43,9 +43,5 @@
   <!-- Preview / GIF -->
   <img src="./GIF.gif" alt="Portfolio Preview" width="720" />
 
-  <br/><br/>
 
-  <sub>✨ Portfolio: https://mrcocacola21.github.io/Portfolio/</sub>
-
-</div>
 <!-- ================== /PORTFOLIO CARD ================== -->
