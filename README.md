@@ -6,7 +6,7 @@
     🧑‍💻 <b>Data Software Engineering</b> <br/>
     🎓 Studying at <b>NTU "KHPI"</b>
   </p>
-
+  <h3></h3>
   <!-- Buttons -->
   <p>
     <a href="https://mrcocacola21.github.io/Portfolio/" target="_blank">
